@@ -1,0 +1,48 @@
+{
+  "keywordFileContentHash": "926DD196F8374EB70E6FFBC8299D7833",
+  "keywordClasses": [
+    {
+      "name": "map.getInfoCovid",
+      "keywordMethods": [
+        {
+          "name": "getListInfo",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getInfo",
+          "parameters": [
+            {
+              "name": "provider",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "info",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

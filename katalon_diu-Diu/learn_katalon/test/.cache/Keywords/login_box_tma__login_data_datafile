@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "EF4B32B1D5B8D953BC6BB39E5BBB2CD1",
+  "keywordClasses": [
+    {
+      "name": "login_box_tma.login_data_datafile",
+      "keywordMethods": [
+        {
+          "name": "login_Datafile",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

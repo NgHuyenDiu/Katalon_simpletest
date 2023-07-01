@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "620AA07CBE6856AE564B1AB7E8FF1605",
+  "keywordClasses": [
+    {
+      "name": "common.NavigateToURL",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

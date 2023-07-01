@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "51F8C2A40933F12BE14BAB263DE2EC13",
+  "keywordClasses": [
+    {
+      "name": "screenshot.Screenshot",
+      "keywordMethods": [
+        {
+          "name": "takeScreenshot",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

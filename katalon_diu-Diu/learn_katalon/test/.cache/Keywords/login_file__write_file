@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "DE37DD631D278AAC8D0124433141626E",
+  "keywordClasses": [
+    {
+      "name": "login_file.write_file",
+      "keywordMethods": [
+        {
+          "name": "write_file_excel",
+          "parameters": [
+            {
+              "name": "path",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

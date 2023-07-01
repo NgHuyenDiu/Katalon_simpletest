@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "D386B1FC32FFCC66C501428E0BD16DFA",
+  "keywordClasses": [
+    {
+      "name": "login_file.login_data_datafile",
+      "keywordMethods": [
+        {
+          "name": "login_Datafile",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

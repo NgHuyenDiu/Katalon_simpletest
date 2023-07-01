@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "09E32D531B31018FDA06A8A9325FFDFB",
+  "keywordClasses": [
+    {
+      "name": "bai2.Bai2",
+      "keywordMethods": [
+        {
+          "name": "verify_user_map",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

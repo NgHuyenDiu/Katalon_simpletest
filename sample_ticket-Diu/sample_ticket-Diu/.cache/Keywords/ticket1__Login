@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "47AF2507DBBE247B89BEA222F15E72AD",
+  "keywordClasses": [
+    {
+      "name": "ticket1.Login",
+      "keywordMethods": [
+        {
+          "name": "login_astandard_user",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

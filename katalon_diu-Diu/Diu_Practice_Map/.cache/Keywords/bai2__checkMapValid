@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "528F4387B3DE54A20FC4FADF49DCB413",
+  "keywordClasses": [
+    {
+      "name": "bai2.checkMapValid",
+      "keywordMethods": [
+        {
+          "name": "verify_user_map",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

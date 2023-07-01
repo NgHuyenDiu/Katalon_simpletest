@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "B60DB0DCFE8EA4180F01E410CFDE1DCE",
+  "keywordClasses": [
+    {
+      "name": "login_saucedemo.Login",
+      "keywordMethods": [
+        {
+          "name": "login_astandard_user",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

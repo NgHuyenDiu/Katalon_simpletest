@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "9ED1F462FED512FF1E29AD140FD90DE2",
+  "keywordClasses": [
+    {
+      "name": "bai1.getMapAction",
+      "keywordMethods": [
+        {
+          "name": "action",
+          "parameters": [
+            {
+              "name": "request",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

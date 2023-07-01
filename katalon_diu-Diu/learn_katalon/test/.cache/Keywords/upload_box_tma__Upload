@@ -1,0 +1,40 @@
+{
+  "keywordFileContentHash": "FD4AFBB4F26823ACAAD00D35D509A740",
+  "keywordClasses": [
+    {
+      "name": "upload_box_tma.Upload",
+      "keywordMethods": [
+        {
+          "name": "cancel",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addNew",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyUpload",
+          "parameters": [
+            {
+              "name": "filename",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "FD8B09E9AB648E003558171587ED3DD0",
+  "keywordClasses": [
+    {
+      "name": "exception.example",
+      "keywordMethods": [
+        {
+          "name": "acceptAlert",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

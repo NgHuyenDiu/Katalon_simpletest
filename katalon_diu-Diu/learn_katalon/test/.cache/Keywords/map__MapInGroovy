@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "4EE28483B2CD3ED57DEDBB1A5451A3C9",
+  "keywordClasses": [
+    {
+      "name": "map.MapInGroovy",
+      "keywordMethods": [
+        {
+          "name": "demoMap",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
